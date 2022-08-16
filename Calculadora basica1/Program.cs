@@ -10,7 +10,7 @@ namespace Calculadora_basica1
     {
         static void Main(string[] args)
         {
-            Console.Title = "Calculadora_basica1";
+            Console.Title = "Calculadora_basica";
             Console.WriteLine("      \t\t\t\tCalculadora Básica        ");
 
 
