@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("\t\t\t\t\t O  numero é positivo ou negativo?");
+             Console.WriteLine("\t\t\t\t\t O  numero é positivo ou negativo?");
             
             bool senumero;
             string Valordigitado;

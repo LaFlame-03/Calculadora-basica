@@ -10,11 +10,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            bool check = true;
-            Console.WriteLine(check ? "Checked" : "Not checked");  // output: Checked
+            bool checar = true;
+            Console.WriteLine(checar ? "checado" : "não verificado");  // output: checado
 
-            Console.WriteLine(false ? "Checked" : "Not checked");  // output: Not checked
-            
+            Console.WriteLine(false ? "checado" : "não verificado");  // output: não verificado
+
             Console.ReadKey();
         }
     }
